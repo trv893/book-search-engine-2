@@ -15,7 +15,8 @@
   "license": "ISC",
   "homepage": "https://booksearchenginegraphql.herokuapp.com/",
   "engines": {
-    "node": "16.15.1"
+    "node": "16.15.1",
+    "npm": "8.11.0"
   },
   "devDependencies": {
     "concurrently": "^6.2.0"
