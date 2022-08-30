@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple web app that allows the user to search for and save books through googles api
+A  web app that allows the user to search for and save books through googles api. The application utilizes MongoDB, GraphQL, JWT Auth, Express and Node
 
 ## Table of Contents
 
@@ -28,14 +28,14 @@ To install necessary dependencies, run the following command:
 
 ## Features
 
-- search for books
-- save books
-- and delete books
-- jwt auth
-- graphql
-- mongodb
-- node
-- express
+- Search for books
+- Save books
+- Delete saved books
+- JWT Auth
+- GraphQL
+- MongoDB
+- Node
+- Express
 
 
 ## License
