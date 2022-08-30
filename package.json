@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://booksearchenginegraphql.herokuapp.com/",
   "devDependencies": {
     "concurrently": "^6.2.0"
   }
